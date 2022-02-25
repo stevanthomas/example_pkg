@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: example-package-stevanst
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/stevanthomas/example_pkg
+Author: Stevan Thomas
+Author-email: stevan.thomas@blend360.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/stevanthomas/example_pkg/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# Example Package
+
+This is a simple example package.
+
+## This is my first attempt at creating a package and then pushing it. Hopefully I get it right this time.
+
+

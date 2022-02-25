@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/example_package/__init__.py
+src/example_package/example.py
+src/example_package/t.py
+src/example_package_stevanst.egg-info/PKG-INFO
+src/example_package_stevanst.egg-info/SOURCES.txt
+src/example_package_stevanst.egg-info/dependency_links.txt
+src/example_package_stevanst.egg-info/top_level.txt
